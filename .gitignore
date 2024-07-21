@@ -1,6 +1,7 @@
 # My virtual env files
 
 myenv/
+users.db
 
 
 # Byte-compiled / optimized / DLL files
